@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="deneme.vcxproj" Id="7165dfff-e570-4b26-859a-20140cd0cfa6" />
+</Solution>
